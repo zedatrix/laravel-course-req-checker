@@ -1,6 +1,7 @@
 # Environment / Prerequisite Bash Checker
 ## Prep
 Ensure that the script has correct permissions: 755
+
 `chmod 755 checker.sh`
 
 ## What does it check?
